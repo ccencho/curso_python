@@ -1,3 +1,4 @@
+##Función INPUT()
 a=input("Ingresa un número")
 #print("Mi nombre es:"+a)
 
